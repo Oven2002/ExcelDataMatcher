@@ -20,4 +20,8 @@
 ```bash
 pip install pandas==1.2.4 xlrd==1.2.0 xlwt==1.3.0 xlutils==2.0.0
 
-<center>🛠 Powered by Gemini 205 Pro</center>
+## 版本历史
+v1.0 (2024-03-15)  
+- 初始版本，支持基础匹配与高亮
+
+<center>🛠 Powered by Gemini</center>
